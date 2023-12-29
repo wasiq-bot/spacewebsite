@@ -1231,8 +1231,31 @@ body{
     
     }
     body .footer img{
-        width:80px
+        width:60px
         
     }
+    .mission{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 10px;
+        margin: 50px 60px 0px 60px;
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+    }
+    .updates img{
+        display: none;
+        width: 400px;
+        filter: drop-shadow(10px 0px 50px rgb(234, 41, 251));
+        margin-left: 30px;
+    
+       
+    }
+    .footer_paragraph{
+        display: none;
+    }
+    
+   
 
 }
