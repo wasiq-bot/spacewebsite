@@ -1230,5 +1230,9 @@ body{
       
     
     }
+    body .footer img{
+        width:80px
+        
+    }
 
 }
