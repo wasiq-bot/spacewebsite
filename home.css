@@ -1223,3 +1223,12 @@ body{
    
     
 }
+@media screen and (max-width: 500px){
+    body .statistics p {
+        color: white;
+        font-size: 6px;
+      
+    
+    }
+
+}
