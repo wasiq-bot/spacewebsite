@@ -5,12 +5,13 @@ body{
     overflow-x: hidden; 
 }
 .burger-menu{
+    visibility: hidden;
     display: none;
 
 
 }
 .close-menu{
-
+    visibility: hidden;
     display: none;
   
 }
